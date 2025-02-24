@@ -1,0 +1,25 @@
+Package: diseasestats
+Title: Analysis Tools for Disease Prevalence and Medication
+        Prescription Rates
+Version: 0.0.0.9000
+Authors@R: 
+    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
+Description: Tools for analyzing healthcare data in OMOP Common Data Model (CDM) format.
+    The package provides functions for calculating disease prevalence rates based on 
+    ICD-10 codes and medication prescription rates based on ATC (Anatomical Therapeutic Chemical)
+    classification. Designed for epidemiological research, health services analysis, 
+    and population health monitoring. Supports calculation of disease and medication 
+    statistics with both absolute counts and relative rates per population.
+License: MIT + file LICENSE
+Encoding: UTF-8
+Roxygen: list(markdown = TRUE)
+RoxygenNote: 7.3.2
+Imports: DBI
+Suggests: DatabaseConnector, testthat (>= 3.0.0), waldo (>= 0.5.0),
+        knitr, rmarkdown
+Config/testthat/edition: 3
+VignetteBuilder: knitr
+NeedsCompilation: no
+Packaged: 2025-02-24 19:46:39 UTC; idies
+Author: First Last [aut, cre]
+Maintainer: First Last <first.last@example.com>
