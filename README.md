@@ -13,7 +13,7 @@ Analysis of Healthcare Data (2016–2024):
 # 7. Average Number of Records per Person in Each Table (2016-2024)
 # 8. Average Number of Records per Visit in Each Table (2016 - 2024)
 9. Distribution of Chronic vs. Acute Conditions
-10. Ratio of Intensive Interventions
+10. Utilization of Intensive Care Services
 11. Prevalence of Comorbidity-Indicating Codes
 12. Severity Scores (Elixhauser Comorbidity Index or Charlson Comorbidity Index)
 13. Primary payer types (Medicare, Medicaid, Private, Self-pay, Other)
