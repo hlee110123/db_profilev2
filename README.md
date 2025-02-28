@@ -19,7 +19,7 @@ Analysis of Healthcare Data (2016–2024):
 13. Primary payer types (Medicare, Medicaid, Private, Self-pay, Other)
 14. Hospital region (Northeast, North central/Midwest, South, West)
 15. Hospital type (Government, non-federal, prviate, non-profit, private, for-profit)
-16. Bed-size category (small, medium, large)
+16. Hospital factors (number of beds: S/M/L, teaching status, percentage of hospital beds designated as ICU beds, and ICU occupancy)
 17. Teaching hospital : (Urban nonteaching or rural or urban teaching)
 
 # Installation: diseasestats package from GITHUB 
