@@ -4,14 +4,14 @@ This R package provides tools for analyzing healthcare utilization in OMOP CDM d
 
 Analysis of Healthcare Data (2016–2024):
 
-# 1. Prevalence Rates of Disease-Related Groups (DRG) (2016–2024)
-# 2. Prescription Rates of Anatomical Therapeutic Chemical (ATC) Classifications (2016–2024)
-# 3. Number of Individuals Across Domains (2016–2024)
-# 4. Number of Occurrence Records Across Domains (2016–2024)
-# 5. Prevalence Rates per 100,000 Patients (2016–2024)
-# 6. Prescription Rates per 100,000 Patients (2016–2024)
-# 7. Average Number of Records per Person in Each Table (2016-2024)
-# 8. Average Number of Records per Visit in Each Table (2016 - 2024)
+1. Prevalence Rates of Disease-Related Groups (DRG) (2016–2024)
+2. Prescription Rates of Anatomical Therapeutic Chemical (ATC) Classifications (2016–2024)
+3. Number of Individuals Across Domains (2016–2024)
+4. Number of Occurrence Records Across Domains (2016–2024)
+5. Prevalence Rates per 100,000 Patients (2016–2024)
+6. Prescription Rates per 100,000 Patients (2016–2024)
+7. Average Number of Records per Person in Each Table (2016-2024)
+8. Average Number of Records per Visit in Each Table (2016 - 2024)
 9. Distribution of Chronic vs. Acute Conditions
 10. Utilization of Intensive Care Services
 11. Prevalence of Comorbidity-Indicating Codes
@@ -20,7 +20,7 @@ Analysis of Healthcare Data (2016–2024):
 14. Hospital region (Northeast, North central/Midwest, South, West)
 15. Hospital type (Government, non-federal, prviate, non-profit, private, for-profit)
 16. Hospital factors (number of beds: S/M/L, teaching status, percentage of hospital beds designated as ICU beds, and ICU occupancy)
-17. Teaching hospital : (Urban nonteaching or rural or urban teaching)
+
 
 # Installation: diseasestats package from GITHUB 
 
